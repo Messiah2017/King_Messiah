@@ -1,0 +1,2 @@
+def ice_cream(rocky_road):
+    print("taste")
